@@ -2,7 +2,7 @@ title: Heatmint Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://heatmint.github.io/
+baseURL: https://status.heatmint.com/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
