@@ -1,8 +1,8 @@
-title: Eggsample Status
+title: Mike's Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://example.com
+baseURL: https://github.com/HeatMint
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
@@ -39,10 +39,12 @@ params:
   systems:
     - name: Alive
       category: Physical Health
-    - name: Brunch
+    - name: Hungry?
       category: Physical Health
-    - name: Dinner
+    - name: Thirsty?
       category: Physical Health
+    - name: Happy?
+      category: Mental Health
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
