@@ -2,7 +2,7 @@
 section: issue
 title: Chicken tender sucks
 date: 2022-05-19T08:50:01.528Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
