@@ -2,7 +2,7 @@ title: Mike's Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://github.com/HeatMint
+baseURL: https://heatmint.github.io/
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
