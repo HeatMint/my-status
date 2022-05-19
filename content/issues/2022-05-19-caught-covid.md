@@ -12,3 +12,5 @@ affected:
 severity: disrupted
 ---
 *Fuck*
+
+*update* - seems like recovered(partially, dunno)
