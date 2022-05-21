@@ -2,7 +2,7 @@
 section: issue
 title: Caught Covid
 date: 2022-05-19T04:25:12.114Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
@@ -14,3 +14,5 @@ severity: disrupted
 *Fuck*
 
 *update* - seems like recovered(partially, dunno)
+
+*update* - Two negative antigen test indicates that it is highly likely that I'm recovered from covid. Though cough and sore throat may still exists.
