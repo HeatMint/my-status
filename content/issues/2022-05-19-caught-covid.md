@@ -1,11 +1,11 @@
 ---
 section: issue
 title: Caught Covid
-date: 2022-05-19T04:25:12.114Z
+date: 2022-05-09T04:25:12.114Z
 resolved: true
 draft: false
 informational: false
-pin: true
+pin: false
 resolvedWhen: 2022-05-19T04:25:12.133Z
 affected:
   - Alive
