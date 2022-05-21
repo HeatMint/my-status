@@ -5,7 +5,7 @@ date: 2022-05-19T04:25:12.114Z
 resolved: true
 draft: false
 informational: false
-pin: false
+pin: true
 resolvedWhen: 2022-05-19T04:25:12.133Z
 affected:
   - Alive
